@@ -134,7 +134,7 @@ console.log(v1,v2); //1,2
     let result = sum("Shagun", 1,2,3); // If we dont pass 1,2,3 here , then result will be 0
     console.log(result);
     
-//Example 2 fro rest parameter
+//Example 2 for rest parameter
 function myBio(firstName, lastName, ...otherInfo) { 
     return otherInfo;
   }
