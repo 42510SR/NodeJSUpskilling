@@ -1,0 +1,11 @@
+{
+  "name": "nodejsfundamentals",
+  "version": "1.0.1",
+  "description": "Testing to create own module",
+  "main": "moduleExport.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shagun Rai",
+  "license": "ISC"
+}
