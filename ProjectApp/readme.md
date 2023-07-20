@@ -4,3 +4,4 @@ Basic styling is done using css.
 Database is used as MongoDb.
 Routing is implemented.
 Axios is used to make API call and fetch data to the front end.
+![image](https://github.com/42510SR/NodeJSUpskilling/assets/86355776/f20cd070-8314-480c-b1bf-ea5e4ee8d7eb)
