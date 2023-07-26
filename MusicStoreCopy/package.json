@@ -1,0 +1,29 @@
+{
+  "name": "musicstorecopy",
+  "version": "1.0.0",
+  "description": "this is just refernced from existing code repo present in upskilling doc. Updated according to new es6 syntax",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.1",
+    "express-session": "^1.17.2",
+    "mongodb": "^4.0.0",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12",
+    "passport": "^0.4.1",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^6.1.0",
+    "passport-mongoose": "0.0.1",
+    "serve-favicon": "^2.5.0"
+  }
+}
+
